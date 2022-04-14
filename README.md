@@ -15,6 +15,6 @@ Thank You for taking the time to view my GitHub Profile.
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pug.svg"/> Pugjs 
 ## Social media
 
-[<img width = '32px' align= 'center' src="https://icon-library.com/images/twitter-circle-icon-png/twitter-circle-icon-png-16.jpg"/>](https://twitter.com/simogoodia)   [<img width = '32px' align= 'center' src="https://pbs.twimg.com/profile_images/1470438241862049802/tNH-hoNz_400x400.jpg"/>](https://www.linkedin.com/in/simogoodia/)
+[<img width = '32px' align= 'center' src="https://icon-library.com/images/twitter-circle-icon-png/twitter-circle-icon-png-16.jpg"/>](https://twitter.com/simo_goodia)   [<img width = '32px' align= 'center' src="https://pbs.twimg.com/profile_images/1470438241862049802/tNH-hoNz_400x400.jpg"/>](https://www.linkedin.com/in/simogoodia/)
 ## 💬 Contact me if you need any services for web front
 simogoodia@gmail.com
