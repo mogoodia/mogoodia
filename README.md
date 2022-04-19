@@ -10,6 +10,7 @@ Thank You for taking the time to view my GitHub Profile.
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"/> CSS3 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/> JavaScript 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg"/> VueJS 
+ - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"/> ReactJS 
  - <img width = '32px' align= 'center' src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/> jQuery 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"/> Bootstrap
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg"/> SASS 
