@@ -6,8 +6,8 @@ Thank You for taking the time to view my GitHub Profile.
 - 👯 I've built multiple projects some y'll find here and some here 👉 in [Codepen](https://codepen.io/simogoodia)
 - 🧑‍💻 I'm currently studying and training to become a <strong>Full Stack Developer</strong>
 ## Skills
- - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"/> HTML5 
- - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"/> CSS3 
+ - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"/> &nbsp; HTML5 
+ - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"/> &nbsp; CSS3 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/> JavaScript 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg"/> VueJS 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"/> ReactJS 
