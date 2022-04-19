@@ -11,7 +11,7 @@ Thank You for taking the time to view my GitHub Profile.
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/> &nbsp; JavaScript 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg"/> &nbsp; VueJS 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"/> &nbsp; ReactJS 
- - <img width = '32px' align= 'center' src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/> jQuery 
+ - <img width = '32px' align= 'center' src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/> &nbsp; jQuery 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"/> &nbsp; Bootstrap
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg"/> &nbsp; SASS 
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pug.svg"/> &nbsp; Pugjs 
