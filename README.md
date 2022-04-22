@@ -3,7 +3,7 @@
 Thank You for taking the time to view my GitHub Profile.
 
 - 🔭 I'm a Frontend Developer, but also write C++
-- 👯 I've built multiple projects some y'll find here and some here 👉 in [Codepen](https://codepen.io/simogoodia)
+- 👯 I've built multiple projects some y'll find here and some here 👉 in [CodePen](https://codepen.io/simogoodia)
 - 🧑‍💻 I'm currently studying and training to become a <strong>Full Stack Developer</strong>
 ## Skills
  - <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"/> &nbsp; HTML5 
